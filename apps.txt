@@ -1,0 +1,2 @@
+List of supported Apps:
+1. Calculator
